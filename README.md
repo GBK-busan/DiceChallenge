@@ -1,5 +1,5 @@
 # 주사위
 
-- 나이스
+- Random 함수 사용
 
 [배포](https://gbk-busan.github.io/DiceChallenge/)
